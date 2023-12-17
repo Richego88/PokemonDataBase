@@ -1,0 +1,17 @@
+{
+  "name": "pokedb",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "jsdom": "^20.0.3",
+    "node-fetch": "2"
+  }
+}
